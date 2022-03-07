@@ -1,0 +1,41 @@
+/* css for body style */
+body {
+  background: #000000;
+  color: #ffffff;
+}
+/* for wrap all movie and series list on one row */
+.movie-app > .row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+/* image container style */
+.image-container {
+  position: relative;
+  transition: transform 0.2s;
+}
+/* pointer for image container to focus on poster or image */
+.image-container:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+/* to add overley for add favourite on movie poster */
+.image-container:hover .overlay {
+  opacity: 1;
+}
+
+/* overlay style */
+.overlay {
+  position: relative;
+  background: rgba(0, 0, 0, 0.8);
+  transition: 0.5s ease;
+  width: auto;
+  opacity: 0;
+  bottom: 0;
+  font-size: 20px;
+  padding: 20px;
+  vertical-align: bottom;
+  display: inline-block;
+  text-align: center;
+}
