@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ <!-- Referance : 
+ 
+ https://stackoverflow.com/questions/40546231/sh-react-scripts-command-not-found-after-running-npm-start
+ https://reactjs.org/docs/faq-styling.html
+ https://getbootstrap.com/docs/4.1/utilities/flex/
+ https://www.w3schools.com/js/js_const.asp
+ https://www.youtube.com/watch?v=thvOizja04c
+ https://www.youtube.com/watch?v=cglmfWtWOmo
+ https://www.youtube.com/watch?v=jc9_Bqzy2YQ&t=2258s
+ https://www.youtube.com/watch?v=sZ0bZGfg_m4&t=777s
+ https://www.youtube.com/watch?v=vxUfx4aM5d8
+  -->
